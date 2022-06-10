@@ -1,0 +1,32 @@
+#importing the module 
+
+from turtle import *
+
+title("Mystic flower")
+speed(8000)
+bgcolor("black")
+r,g,b=255,0,0
+
+#Defining the color spectrum and it's change parameters
+
+for i in range(300):
+    colormode(255)
+    if i<255//3:
+        g+=3
+    elif i<255*2//3:
+        r-=3
+    elif i<255:
+        b+=3
+    elif i<255*4//3:
+        g-=3
+    elif i<255*5//3:
+        r+=3
+    else:
+        b-=3
+    circle(300-i,90)
+    lt(90)
+    circle(300-i,90)
+    left(18)
+    pencolor(r,g,b)
+
+#End of the program
