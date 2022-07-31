@@ -4,5 +4,9 @@
 
 - *The coolest turtle program you would have seen in a while...*
 
+⇒ **Dependency:-**
+
+`pip install PythonTurtle`
+
 
 -------------------------------------------
