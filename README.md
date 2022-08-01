@@ -4,15 +4,15 @@
 
 *A colorful spectral flower made through* **Turtle module** *in Python.*
 
-- *The coolest turtle program you would have seen in a while...*
+⇒ *The coolest turtle program you would have seen in a while...*
 
 ⇒ **Dependency:-**
 
-`pip install PythonTurtle`
+- `pip install PythonTurtle`
 
 <br>
 
-- **Output Preview** -
+⇒**Output Preview** -
 
 
 
