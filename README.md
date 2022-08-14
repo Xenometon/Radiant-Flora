@@ -10,8 +10,6 @@
 
 - `pip install PythonTurtle`
 
-<br>
-
 ⇒ **Output Preview** -
 
 
