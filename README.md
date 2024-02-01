@@ -10,7 +10,7 @@
 <br>
 <br>
 
-⇒ **Output Preview** ➡️
+➡️ **Output Preview** :
 
 
 
